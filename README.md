@@ -5,6 +5,8 @@ XBotControl framework: XBotCore + OpenSoT + CartesI/O
 
 **CartesI/O** slides available [here](https://docs.google.com/presentation/d/1bmeKwGsyhoEIW_Wd05ITrp71J0FMkANDNeZTTDXzfJ4/edit#slide=id.p).
 
+XBotControl Tutorial available at https://github.com/ADVRHumanoids/tutorial_iros2018
+
 # Install
 
 Download the release version you want to install from https://github.com/ADVRHumanoids/XBotControl/releases
