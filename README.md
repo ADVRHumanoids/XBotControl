@@ -15,10 +15,32 @@ sudo gdebi XBotControl_1.0-0.deb
 
 # Configure
 
+First of all source the XBot setup.bash
+
 ```
 . /opt/xbot/build/install/share/xbot/setup.bash
-set_xbot_config YOUR_CONFIG
 ```
+
+You can check that the sourcing has effect in your bash terminal by echoing the $XBOT_ROOT env variable.
+
+```
+echo $XBOT_ROOT
+```
+
+The answer should be:
+
+```
+/opt/xbot/build/install/share/xbot
+```
+
+Remember to source in each of the terminal you are using or to put the source command in your .bashrc
+
+Later on you can set YOUR_CONFIG_YAML (e.g. /home/embedded/configs/my_robot.yaml): this is going to be used in the following XBotCore executions.
+
+```
+set_xbot_config YOUR_CONFIG_YAML
+````
+
 
 # Uninstall
 
