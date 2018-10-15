@@ -54,6 +54,3 @@ set_xbot_config YOUR_CONFIG_YAML
 sudo dpkg -P xbotcontrol
 ```
 
-# Try it with no installation!
-
-Thanks to our collaboration with [The Construct Sim LTD](http://www.theconstructsim.com/), you are able to run the XBotControl framework on your browser using ROS Development Studio at this [link](https://rds.theconstructsim.com/tc_projects/use_project_share_link/b1c6f2c1-2964-4d52-90e7-ae267383a9b6).
