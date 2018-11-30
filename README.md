@@ -9,6 +9,8 @@ XBotControl Tutorial available at https://github.com/ADVRHumanoids/tutorial_iros
 
 # Install
 
+Supported Operating System: Ubuntu 16.04
+
 Download the release version you want to install from https://github.com/ADVRHumanoids/XBotControl/releases
 
 For example, if I want to install XBotControl 1.0.0 I will do the following:
