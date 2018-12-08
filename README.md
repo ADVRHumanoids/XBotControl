@@ -11,7 +11,10 @@ XBotControl Tutorial available at https://github.com/ADVRHumanoids/tutorial_iros
 
 # Install
 
-Supported Operating System: Ubuntu 16.04
+Supported Operating System: **Ubuntu 16.04**
+
+Since XBotControl comes with built-in ROS support, you should first install and configure ROS kinetic as described here http://wiki.ros.org/kinetic/Installation/Ubuntu
+
 
 Download the release version you want to install from https://github.com/ADVRHumanoids/XBotControl/releases
 
