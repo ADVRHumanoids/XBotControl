@@ -18,7 +18,7 @@ Since XBotControl comes with built-in ROS support, you should first install and 
 
 Download the release version you want to install from https://github.com/ADVRHumanoids/XBotControl/releases
 
-For example, if I want to install XBotControl 1.0.1 I will do the following:
+For example, if I want to install XBotControl 1.0.1 you will do the following:
 
 ```
 wget https://github.com/ADVRHumanoids/XBotControl/releases/download/v1.0.1/XBotControl_1.0-1.deb
